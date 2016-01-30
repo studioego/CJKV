@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*-
 # read Unihan database txt file 
 # Author: DaeHyun Sung(sungdh86+git@gmail.com)
+import sys, re
+
 def chomp(s):
     return s[:-1] if s.endswith('\n') else s
 
@@ -27,6 +29,5 @@ if __name__ == '__main__':
             if len(items) != 3: 
                 print("parsing error: ", items)
                 break
-            print("CodePoint: %s|field: %s|content: %s" % (items[0], items[1], items[2]))
-            
+            print("Chinese Character:%s|CodePoint: %s|field: %s|content: %s" % (chr(int(items[0].lstrip('U+'), 16)), items[0], items[1], items[2]))
     uniHanReadingFile.close()
