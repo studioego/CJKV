@@ -21,7 +21,9 @@ Reference: https://en.wiktionary.org/wiki/%E6%BC%A2%E5%AD%97
 
 Based on Unicode 8.0 Unihan database
 
-한국어의 로마자 표기법 인터넷 사이트: http://roman.cs.pusan.ac.kr/result_all.aspx?input=투명인간
+한국어의 로마자 표기법 인터넷 사이트: http://roman.cs.pusan.ac.kr/result_all.aspx
+
+Programming with Unicode http://unicodebook.readthedocs.org/index.html
 
 
 About Unihan( the Unicode Hàn (漢) Database )
