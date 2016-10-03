@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Author: DaeHyun Sung
+# Author: DaeHyun Sung(sungdh86+git@gmail.com)
 
 
 import unicodedata
@@ -18,6 +18,7 @@ GLYPHWIKI_JP_URL = "http://glyphwiki.org/wiki/u"
 GLYPHWIKI_ZHS_URL = "http://zhs.glyphwiki.org/wiki/u"
 GLYPHWIKI_ZHT_URL = "http://zht.glyphwiki.org/wiki/u"
 ZDIC_URL = "http://www.zdic.net/z/jd/?u="
+WEBLIO_URL = "http://ejje.weblio.jp/content/"
 
 # Listing of Characters Covered by the Unihan Database
 unihan_ranges = [
@@ -158,4 +159,12 @@ def zdic_link(msg):
         send_message += item + "\n"
         send_message += unicodedata.name(item) + "\n"
         send_message += ZDIC_URL + "{:04x}".format(ord(item)) + "\n"
+    return send_message
+
+def weblio_link(msg):
+    send_message = ""
+    for item in msg:
+        send_message += item + "\n"
+        send_message += unicodedata.name(item) + "\n"
+        send_message += WEBLIO_URL + item + "\n"
     return send_message
