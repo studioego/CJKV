@@ -2,3 +2,27 @@
 unihan-dict-link/__pycache__/setup.cpython-35.pyc
 
 *.pyc
+
+unicodedata/unihan_2015-04-30/.DS_Store
+
+unihan-dict-link/unihan/.DS_Store
+
+unihan-dict-link/.DS_Store
+
+test/.DS_Store
+
+test/perl/.DS_Store
+
+document/presentation/.DS_Store
+
+document/doc/unicode8.0/East Asian Scripts/Hangul Jamo/.DS_Store
+
+document/doc/unicode8.0/East Asian Scripts/CJK Compatibility Ideographs/.DS_Store
+
+document/doc/unicode8.0/.DS_Store
+
+document/doc/korean/.DS_Store
+
+document/doc/korean/court/.DS_Store
+
+.DS_Store
