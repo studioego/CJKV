@@ -4,7 +4,10 @@
 # Unicode version: 9.0.0
 #
 # Unicode Character Database
+# © 1991-2016 Unicode®, Inc.
 # For terms of use, see http://www.unicode.org/terms_of_use.html
+# For documentation, see http://www.unicode.org/reports/tr44/
+#
 # This file contains data on the following fields from the Unihan database:
 #	kSemanticVariant
 #	kSimplifiedVariant
