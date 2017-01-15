@@ -1,0 +1,27 @@
+from unicodedata import normalize, name
+gag = '각'
+print(gag)
+print("length:" + str(len(gag)))
+gagnfd = normalize('NFD', gag)
+print("NFD:" + gagnfd)
+print("length:" + str(len(gagnfd)))
+gagnfc = normalize('NFC', gagnfd)
+print("NFC:" + gagnfc)
+print("length:" + str(len(gagnfc)))
+# modern hangul 월인천강(月印天江)
+weolyincheongang = '월인천강'
+print(weolyincheongang)
+print("length:" + str(len(weolyincheongang)))
+weolyincheongangnfd = normalize('NFD', weolyincheongang)
+print("NFD:" + weolyincheongangnfd)
+print("length:" + str(len(weolyincheongangnfd)))
+weolyincheongangnfc = normalize('NFC', weolyincheongangnfd)
+print("NFC:" + weolyincheongangnfc)
+print("length:" + str(len(weolyincheongangnfc)))
+# Archaic Hangul 월인천강(月印天江) 
+oldkorean_weolyincheongang = '\u114C\u116F\u11D9\u1159\u1175\u11AB\u110E\u1167\u11AB\u1100\u1161\u11F0'
+print(oldkorean_weolyincheongang)
+print("length:" + str(len(oldkorean_weolyincheongang)))
+oldkorean_words = normalize('NFC', oldkorean_weolyincheongang)
+print(oldkorean_words)
+print("length:" + str(len(oldkorean_weolyincheongang)))
