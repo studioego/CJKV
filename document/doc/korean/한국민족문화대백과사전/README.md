@@ -31,11 +31,11 @@
 
 ### 파일 목록
 
-* encymeta.xlsx
+* [encymeta.xlsx](encymeta.xlsx)
 
  『한국민족문화대백과사전』 <개정증보> 편찬 기본 메타정보(70,283개) 2015.08.31 기준
 
-* 한국민족문화대백과사전 텍스트 콘텐츠 메타데이터 (20190325).csv
+* [한국민족문화대백과사전 텍스트 콘텐츠 메타데이터 (20190325).csv](https://github.com/studioego/CJKV/blob/master/document/doc/korean/%ED%95%9C%EA%B5%AD%EB%AF%BC%EC%A1%B1%EB%AC%B8%ED%99%94%EB%8C%80%EB%B0%B1%EA%B3%BC%EC%82%AC%EC%A0%84/%20%ED%95%9C%EA%B5%AD%EB%AF%BC%EC%A1%B1%EB%AC%B8%ED%99%94%EB%8C%80%EB%B0%B1%EA%B3%BC%EC%82%AC%EC%A0%84%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EC%BD%98%ED%85%90%EC%B8%A0%20%EB%A9%94%ED%83%80%EB%8D%B0%EC%9D%B4%ED%84%B0%20(20190325).csv)
 
   2019.03.25 기준
   
