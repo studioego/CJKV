@@ -13,6 +13,6 @@ Current Revision: December 2019/二零一九年十二月 (2019년 12월)
 
 [Current Revision's English-Chinese Glossary of IT Terms pdf link](./pdf/201912/IT_Glossary.pdf)
 
-###출처: 
+### 출처: 
 * [English-Chinese Glossary of IT Terms Website](https://www.ogcio.gov.hk/en/our_work/infrastructure/methodology/glossary/)
 * [English-Chinese Glossary of IT Terms Current ver. Pdf link](https://www.ogcio.gov.hk/en/our_work/infrastructure/methodology/glossary/doc/IT_Glossary.pdf)
