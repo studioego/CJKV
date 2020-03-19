@@ -12,6 +12,7 @@
 ### English-Chinese(Mandarin) & Chinese(Mandarin)-English Dictionary 
  * LINE Dict Chinese-English [https://dict.naver.com/linedict/zhendict/#/cnen/home](https://dict.naver.com/linedict/zhendict/#/cnen/home)
  * LINE Dict English-Chinese [https://dict.naver.com/linedict/enzhdict/#/encn/home](https://dict.naver.com/linedict/enzhdict/#/encn/home)
+ * MDBG Chinese Dictionary [https://www.mdbg.net/chinese/dictionary](https://www.mdbg.net/chinese/dictionary)
 
 ## Cantonese 
 
