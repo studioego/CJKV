@@ -9,6 +9,10 @@
  * 萌典 兩岸詞典 [https://www.moedict.tw/](https://www.moedict.tw/)
  * 萌典 Github Repository [https://github.com/g0v/moedict-webkit/](https://github.com/g0v/moedict-webkit/)
 
+### English-Chinese(Mandarin) & Chinese(Mandarin)-English Dictionary 
+ * LINE Dict Chinese-English [https://dict.naver.com/linedict/zhendict/#/cnen/home](https://dict.naver.com/linedict/zhendict/#/cnen/home)
+ * LINE Dict English-Chinese [https://dict.naver.com/linedict/enzhdict/#/encn/home](https://dict.naver.com/linedict/enzhdict/#/encn/home)
+
 ## Cantonese 
 
 ## Southen Min Chinese (閩南語/闽南语, 臺灣語/台湾语)
