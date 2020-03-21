@@ -1,0 +1,2 @@
+# Japanese language documents & links
+
